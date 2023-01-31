@@ -1,7 +1,9 @@
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/nPxAn9NBqfIAAAAC/beavis-computer.gif">
+
 <h1 align="center">Hi 👋, I'm Duc Binh</h1>
 <h3 align="center">BA IT INTERN !!!</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/nPxAn9NBqfIAAAAC/beavis-computer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=self-mademan&label=Profile%20views&color=0e75b6&style=flat" alt="self-mademan" /> </p>
 
