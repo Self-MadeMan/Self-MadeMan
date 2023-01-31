@@ -1,11 +1,11 @@
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/nPxAn9NBqfIAAAAC/beavis-computer.gif">
+<img align="right" alt="coding" width="800" src="https://media.tenor.com/nPxAn9NBqfIAAAAC/beavis-computer.gif">
 
 <h1 align="center">Hi 👋, I'm Duc Binh</h1>
 <h3 align="center">BA IT INTERN !!!</h3>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=self-mademan&label=Profile%20views&color=0e75b6&style=flat" alt="self-mademan" /> </p>
+
 
 - 🌱 I’m currently learning **FPT University HCM.**
 
