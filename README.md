@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **anything if u want.**
 
-- 📫 How to reach me **ducbinhnguyen.2002@gmail.com**
+- 📫 **ducbinhnguyen.2002@gmail.com**
 
-- ⚡ Fun fact **I love your eyes**
+- ⚡ **I love your eyes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
