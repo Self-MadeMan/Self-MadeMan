@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Duc Binh</h1>
-<h3 align="center">BA IT INTERN !!!</h3>
+<h3 align="center">WORK HARD | PLAY HARD</h3>
 
 
 
